@@ -40,7 +40,7 @@ permalink: /nelson-siegel-model/
   @media(max-width:700px){ .ns-grid{grid-template-columns:1fr}.ns-controls{border-left:0;border-top:1px solid var(--line);padding:1rem 0 0}.ns-readouts{grid-template-columns:1fr}.ns-readouts div{border-right:0;border-bottom:1px solid var(--line)}.ns-lab-head{align-items:flex-start;flex-direction:column}.ns-tabs{width:100%}.ns-tabs button{flex:1} }
 </style>
 
-<article class="ns-note">
+<article class="ns-note" markdown="1">
 
 # Reading the Yield Curve Through Nelson–Siegel
 
